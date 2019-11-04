@@ -14,3 +14,7 @@ pause = True
 first_start = True
 text_size = 32
 menu_text_size = 40
+j = 1
+k = 0
+c = 0
+s = 0

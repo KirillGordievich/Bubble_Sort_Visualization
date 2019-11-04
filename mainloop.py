@@ -79,7 +79,7 @@ while mainloop:
              ' by ', white)
         text(screen, None, menu_text_size, screen_width/2,
              screen_height/2 + 2/9*screen_height + 3*menu_text_size,
-             'Gordievich Kirill', white)
+             '%s' % name, white)
     pygame.display.flip()
     clock.tick(fps)
 pygame.quit()

@@ -18,3 +18,4 @@ j = 1
 k = 0
 c = 0
 s = 0
+name = "Gordievich Kirill"
